@@ -4,17 +4,17 @@ function Home() {
     return (
 
         <div id="page">
-          <aside id="fh5co-hero" className="js-fullheight">
+          <header id="fh5co-hero" className="js-fullheight">
             <div className="flexslider js-fullheight">
               <ul className="slides">
-                <li style={{backgroundImage: 'url(assets/images/slider.jpg)'}}>
+                <li style={{backgroundImage: 'url(assets/images/home.jpg)'}}>
                   <div className="overlay-gradient" />
                   <div className="container">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 js-fullheight slider-text">
                       <div className="slider-text-inner">
                       </div></div></div></li></ul>
             </div>
-          </aside>
+          </header>
           <div id="fh5co-product">
             <div className="container">
               <div className="row animate-box">
@@ -32,7 +32,7 @@ function Home() {
                       </div>
                     </div>
                     <div className="desc">
-                      <h3><a href="single.html">Scaler Machine</a></h3>
+                      <h3><Link to="/product">Scaler Machine</Link></h3>
                       <span className="price">Kshs 90,000</span>
                     </div>
                   </div>
@@ -46,7 +46,7 @@ function Home() {
                       </div>
                     </div>
                     <div className="desc">
-                      <h3><a href="single.html">Suction Machine</a></h3>
+                      <h3><Link to="/product">Suction Machine</Link></h3>
                       <span className="price">Kshs 138,000</span>
                     </div>
                   </div>
@@ -60,13 +60,13 @@ function Home() {
                       </div>
                     </div>
                     <div className="desc">
-                      <h3><a href="single.html">Diapex</a></h3>
+                      <h3><Link to="/product">Diapex</Link></h3>
                       <span className="price">Kshs 3,800</span>
                     </div>
                   </div>
                 </div>
               </div>
-              <span><a href="product.html">MORE PRODUCTS</a></span>
+              <span><Link to="/product">MORE PRODUCTS</Link></span>
             </div>
           </div>
           <div id="fh5co-started">
@@ -93,9 +93,6 @@ function Home() {
                 </div>
               </div>
             </div>
-          </div>
-          <div className="gototop js-top">
-            <a href="#" className="js-gotop"><i className="icon-arrow-up" /></a>
           </div>
         </div>
       );

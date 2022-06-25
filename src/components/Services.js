@@ -1,7 +1,6 @@
 function Services() {
     return (
-        <div>
-          <div className="fh5co-loader" />
+        
           <div id="page">
             <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(assets/images/img_bg_2.jpg)'}}>
               <div className="overlay" />
@@ -11,7 +10,6 @@ function Services() {
                     <div className="display-t">
                       <div className="display-tc animate-box" data-animate-effect="fadeIn">
                         <h1>Services</h1>
-                        <h2>Free html5 templates by <a href="https://themewagon.com/theme_tag/free/" target="_blank">Themewagon</a></h2>
                       </div>
                     </div>
                   </div>
@@ -28,7 +26,7 @@ function Services() {
                       </span>
                       <h3>Credit Card</h3>
                       <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
-                      <p><a href="#" className="btn btn-primary btn-outline">Learn More</a></p>
+                      <p><a href="https://google.com" className="btn btn-primary btn-outline">Learn More</a></p>
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-4 text-center">
@@ -38,7 +36,7 @@ function Services() {
                       </span>
                       <h3>Save Money</h3>
                       <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
-                      <p><a href="#" className="btn btn-primary btn-outline">Learn More</a></p>
+                      <p><a href="https://google.com" className="btn btn-primary btn-outline">Learn More</a></p>
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-4 text-center">
@@ -48,7 +46,7 @@ function Services() {
                       </span>
                       <h3>Free Delivery</h3>
                       <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
-                      <p><a href="#" className="btn btn-primary btn-outline">Learn More</a></p>
+                      <p><a href="https://google.com" className="btn btn-primary btn-outline">Learn More</a></p>
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-4 text-center">
@@ -58,7 +56,7 @@ function Services() {
                       </span>
                       <h3>Lifetime Warranty</h3>
                       <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
-                      <p><a href="#" className="btn btn-primary btn-outline">Learn More</a></p>
+                      <p><a href="https://google.com" className="btn btn-primary btn-outline">Learn More</a></p>
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-4 text-center">
@@ -68,7 +66,7 @@ function Services() {
                       </span>
                       <h3>Branded Model</h3>
                       <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
-                      <p><a href="#" className="btn btn-primary btn-outline">Learn More</a></p>
+                      <p><a href="https://google.com" className="btn btn-primary btn-outline">Learn More</a></p>
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-4 text-center">
@@ -78,7 +76,7 @@ function Services() {
                       </span>
                       <h3>Affordable</h3>
                       <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
-                      <p><a href="#" className="btn btn-primary btn-outline">Learn More</a></p>
+                      <p><a href="https://google.com" className="btn btn-primary btn-outline">Learn More</a></p>
                     </div>
                   </div>
                 </div>
@@ -110,7 +108,6 @@ function Services() {
               </div>
             </div>
           </div>
-        </div>
       );
   }
   

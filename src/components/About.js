@@ -2,7 +2,7 @@ function About() {
   return (
 
     <div id="page">
-      <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(assets/images/img_bg_2.jpg)'}}>
+      <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(assets/images/about.jpg)'}}>
         <div className="overlay" />
         <div className="container">
           <div className="row">
