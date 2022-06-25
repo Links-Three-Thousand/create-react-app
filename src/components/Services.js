@@ -1,7 +1,6 @@
 function Services() {
     return (
-        <div>
-          <div className="fh5co-loader" />
+        
           <div id="page">
             <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(assets/images/img_bg_2.jpg)'}}>
               <div className="overlay" />
@@ -110,7 +109,6 @@ function Services() {
               </div>
             </div>
           </div>
-        </div>
       );
   }
   
