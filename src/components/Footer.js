@@ -19,7 +19,7 @@ function Footer() {
             </div>
             <div className="row copyright">
               <div className="col-md-12 text-center">
-                <p /><p> ©  | Designed by: <a href="https://lancolatech.co.ke" target="_blank" rel="noreferrer">Lancolatech Company Limited</a></p>
+                <p> © | Designed by: <a href="https://lancolatech.co.ke" target="_blank" rel="noreferrer">Lancolatech Company Limited</a></p>
               </div>
             </div>
           </div>
