@@ -14,7 +14,7 @@ function About() {
               </div>
             </div>
           </div>
-        </div>
+        </div>fh5co-hero
       </header>
       <div id="fh5co-about">
         <div className="container">
