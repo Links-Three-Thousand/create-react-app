@@ -13,7 +13,7 @@ function Header() {
           <div className="container">
             <div className="row">
               <div className="col-md-3 col-xs-2">
-                <Link to="/"> <img className="logo" src="/assets/images/logo.png" width="150px" /></Link>
+                <Link to="/"> <img className="logo" src="/assets/images/logo.png" width="150px" alt="home" /></Link>
               </div>
               <div className="col-md-6 col-xs-6 text-center menu-1">
                 <ul>

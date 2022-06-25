@@ -62,9 +62,6 @@ function Contact() {
                       <div>
                         <input type="hidden" name="_gotcha" />
                       </div>
-                      <div className="gototop js-top">
-                      <a href="#" className="js-gotop"><i className="icon-arrow-up" /></a>
-                      </div>
                     </form>		
                   </div>
                 </div>
