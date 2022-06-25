@@ -4,7 +4,7 @@ function Home() {
     return (
 
         <div id="page">
-          <header id="fh5co-hero" className="js-fullheight">
+          <aside id="fh5co-hero" className="js-fullheight">
             <div className="flexslider js-fullheight">
               <ul className="slides">
                 <li style={{backgroundImage: 'url(assets/images/home.jpg)'}}>
@@ -14,7 +14,7 @@ function Home() {
                       <div className="slider-text-inner">
                       </div></div></div></li></ul>
             </div>
-          </header>
+          </aside>
           <div id="fh5co-product">
             <div className="container">
               <div className="row animate-box">
